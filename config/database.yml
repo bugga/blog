@@ -18,6 +18,7 @@ development:
   database: my_database_development
   pool: 5
   timeout: 5000
+  host: localhost
 
 
 # Warning: The database defined as "test" will be erased and
